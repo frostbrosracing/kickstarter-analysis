@@ -1,5 +1,5 @@
 # kickstarter-analysis
-##this is a test
+## this is a test
 
 Performing analysis on Kickstarter data to uncover trends
 ![Outcomes_Based_on_Launch_Date.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Outcomes_Based_on_Launch_Date.png)
