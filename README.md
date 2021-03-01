@@ -1,4 +1,3 @@
-# Leslye is awesome!
 # kickstarter-analysis
 # Kickstarting with Excel
 
