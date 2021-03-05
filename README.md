@@ -1,7 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 
-## By studying a wide range of Kickstarter campaigns we've been able to analyze and understand trends related to fundraising goals, campaign starting dates and duration,
-and finally, the outcome of similar campaigns to that which Louise intends to organize.  
+## By studying a wide range of Kickstarter campaigns we've been able to analyze and understand trends related to fundraising goals, campaign starting dates and duration, and finally, the outcome of similar campaigns to that which Louise intends to organize.  
 
 ### This is in order to maximize potential contributions to Louise's fundraising campaign for her own play, "Fever".    
 
