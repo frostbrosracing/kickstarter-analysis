@@ -7,8 +7,10 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![Outcomes_Based_on_Launch_Date.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Outcomes_Based_on_Launch_Date.png)
 
 ### Analysis of Outcomes Based on Goals
+![Outcomes_vs_Goals.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -23,5 +25,5 @@
 - What are some other possible tables and/or graphs that we could create?
 
 Performing analysis on Kickstarter data to uncover trends
-![Outcomes_Based_on_Launch_Date.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Outcomes_Based_on_Launch_Date.png)
-![Outcomes_vs_Goals.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+
+
