@@ -4,7 +4,7 @@
 
 ### This is in order to maximize potential contributions to Louise's fundraising campaign for her own play, "Fever".    
 
-## Analysis and Challenges
+## Analysis and Challengess
 
 ### Analysis of Outcomes Based on Launch Date
 ![Outcomes_Based_on_Launch_Date.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Outcomes_Based_on_Launch_Date.png)
