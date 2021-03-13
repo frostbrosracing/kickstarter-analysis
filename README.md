@@ -1,9 +1,9 @@
 # An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
-#### By studying a wide range of Kickstarter campaigns, we've been able to analyze trends and compare the outcomes of many Kickstarter campaigns.  Specifically, we can drill down and compare the outcomes of campaigns similar to that of Louise's play, "Fever".  The analysis of campaign starting dates and fundraising goals gives us valuable information. 
+#### By studying a wide range of Kickstarter campaigns, we've been able to analyze trends and compare the outcomes of many Kickstarter campaigns.  Specific to the interests of this analysis, we can filter the compiled data to provide recommendations within the subcategory of "plays".  The analysis of starting dates and fundraising goals within this Kickstarter campaign subcategory gives us valuable information. 
 
-#### The purpose of this is to understand how Louise might have better positioned her fundraising campaign for a greater level of success.
+#### The purpose of this is to understand how organizers might position their fundraising campaigns for greater levels of success.
 
 
 ## Analysis and Challenges
