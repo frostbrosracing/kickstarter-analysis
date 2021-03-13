@@ -1,20 +1,20 @@
 # An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
-#### By studying a large amount of compiled data, we've been able to analyze trends and compare the outcomes of many Kickstarter fundraising campaigns.  The focus of this analysis is on the subcategory of "plays", and the gathered data has been filtered to provide insights according to both *campaign starting date* and *fundraising goals*. 
+#### By studying a large amount of compiled data, we've been able to analyze trends and compare the outcomes of many Kickstarter fundraising campaigns.  The focus of this analysis is on the subcategory of "plays", and the gathered data has been filtered to provide insights according to both *campaign launch date* and *fundraising goals*. 
 
-#### This valuable information helps organizers understand how they might better position their fundraising campaigns success.
+#### This valuable information helps organizers understand how they might better position their fundraising campaign's success.
 
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-By analyzing outcomes of campaigns based on their launch date we can begin to target that greater level of success.  In order to do this, a pivot table was created in which all Kickstarter campaigns were filtered by the category of "Theater", and for all years being studied.  Shown below is a chart detailing the outcome of that pivot table.
+By analyzing outcomes of campaigns based on their launch date we can begin to target success.  In order to do this, a pivot table was created in which all Kickstarter campaigns were filtered to the category of "Theater", and for all years within the overall data set.  Shown below is a chart detailing the outcome of that table.
 
 ![Theater_Outcomes_vs_Launch.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-By analyzing outcomes of campaigns based on their fundraising goal we can further leverage the data toward a successful effort.  This was achieved by creating a table and using a "CountIf" function to sum the results of each campaign in the "play" subcategory according to the set goal ranges and outcomes.  By doing so, we can quickly visualize the result to provide further recommendation to Louise.  Below is a chart showing the percentage, by campaign outcome, of the total number of campaigns within each defined goal range.
+By analyzing outcomes of campaigns based on their fundraising goal we can further leverage the data toward a successful effort.  This was achieved by creating a table and using a ***CountIf*** function to sum the results of each campaign in the "play" subcategory according to the established **goal ranges** and **various outcomes** *(successful, failed, or canceled)*.  By doing so, we can quickly visualize the result to provide further recommendation to Louise.  Below is a chart showing the percentage, by campaign outcome, of the total number of campaigns within each defined goal range.
 
 ![Outcomes_vs_Goals.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
