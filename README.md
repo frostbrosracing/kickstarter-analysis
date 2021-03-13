@@ -25,7 +25,7 @@
 ![Outcomes_vs_Goals.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-## One challenge that appeared within this analysis was the discovery of a hole in the data requested based on the ranges established.  In the prompt for Deliverable 2 (Item 3), campaigns with goals of exactly $50,000 aren't represented by the table.  Because of this, if a formula is created according to that request, it is exclusive of that $50,000 value and the table doesn't capture a total of 4 plays.  Although this doesn't have a major impact on the results of the data due to the limited number of excluded campaigns, it should be noted that all values within the range being analyzed should be included for accurate reporting.
+#### One challenge that appeared within this analysis was the discovery of a hole in the data requested based on the ranges established.  In the prompt for Deliverable 2 (Item 3), campaigns with goals of exactly $50,000 aren't represented by the table.  Because of this, if a formula is created according to that request, it is exclusive of that $50,000 value and the table doesn't capture a total of 4 plays.  Although this doesn't have a major impact on the results of the data due to the limited number of excluded campaigns, it should be noted that all values within the range being analyzed should be included for accurate reporting.
 
 ![Goal_ranges_original_table.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Goal_ranges_original_table.png)
 ![Goal_ranges_modified_table.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Goal_ranges_modified_table.png)
