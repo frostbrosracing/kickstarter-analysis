@@ -40,10 +40,11 @@ This was overcome by simply modifying the ***CountIfs*** function to include tho
 - The percentage of successful campaigns with goals of between $30,000 and $44,999 increases for just 20 campaigns.  These campaigns could be interpreted as outliers due to extenuating circumstances, and further investigation into those successful campaigns might be appropriate.
 - Of the 17 total projects with goals of $45,000 and higher, only 2 were successful.
 
+#### Some limitations of this dataset:
+- The Kickstarter fundraising platform isn't the only option for campaigns attempting to raise money, and therefore those campaigns won't be included in this analysis.
+- This analysis includes data for the years of 2009 to 2017 and won't have the most up-to-date results.
 
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+#### The ***Outcomes Based on Launch Date*** analysis was made according to U.S. campaigns.  Some other tables and/or graphs that could be created might be based on results of campaigns organized in other countries.
 
 
 
