@@ -30,11 +30,11 @@ This was overcome by simply modifying the ***CountIfs*** function to include tho
 
 ## Results
 
-Two conclusions drawn by comparing fundraising campaign ***outcomes with the launched date*** are listed below.
+#### Two conclusions drawn by comparing fundraising campaign ***outcomes with the launched date*** are listed below.
 - Theater campaigns initiated in the months of May and June were considerably more successful than those campaigns initiated in other months.
 - Perhaps due to potential contributions being limited by holiday season spending, December campaigns resulted in the fewest successes. 
 
-According to the data gathered by comparing fundraising ***outcomes based on their goals*** we can also determine the following:
+#### According to the data gathered by comparing fundraising ***outcomes based on their goals*** we can also determine the following:
 - The percentage of successful campaigns steadily decreases from 76% for campaigns with goals less than $1,000, to 20% for campaigns with goals in the $25,000 to $29,999 range.  The total number of campaigns represented in this overall goal range (less than $1,000 to $29,999) is 1010.
 - Campaigns achieved the highest overall success rate with goals of $1,000 to $4,999.  Of 534 campaigns in this group, 388 met their fundraising goal.  This appears to be the ideal goal range of a successful kickstarter campaign for the subcategory of "play".
 - The percentage of successful campaigns with goals of between $30,000 and $44,999 increases for just 20 campaigns.  These campaigns could be interpreted as outliers due to extenuating circumstances, and further investigation into those successful campaigns might be appropriate.
