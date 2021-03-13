@@ -10,7 +10,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-#### Two conclusions drawn by comparing fundraising campaign outcomes with launch date:
+#### Two conclusions drawn by comparing fundraising campaign outcomes with the date they were launched:
 1.  Theater campaigns initiated in the months of May and June are considerably more successful than those campaigns initiated in other months.
 2.  December campaings resulted in the fewest successes.  Perhaps due to potential contributors adjusting their spending for the holiday season, this month had the fewest successful campaigns of the years in the analysis.
 
