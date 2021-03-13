@@ -17,16 +17,12 @@
 
 ### Analysis of Outcomes Based on Goals
 #### By analyzing outcomes of campaigns based on their fundraising goal we can further leverage the data toward a successful effort.  Below is an analysis of fundraising campaign outcomes based on the fundraising goals that were originally set.
-##### By creating a table and a CountIf function to sum the results of each campaign in the "play" subcategory according to the set goal ranges we can draw the following conclusions.
-1. The percentage of successful campaigns steadily decreases from 76% for campaigns with goals less than $1,000, to 20% for campaigns with goals in the $25,000 to $29,999 range.  The total number of campaigns represented in this overall goal range (less than $1,000 to $29,999) is 1010.
-2. Campaigns achieved the highest overall success rate with goals of $1,000 to $4,999.  Of 534 campaigns in this group, 388 met their fundraising goal.  This appears to be the ideal goal range of a successful kickstarter campaign for the subcategory of "play".
-3. The percentage of successful campaigns with goals of between $30,000 and $44,999 increases for just 20 campaigns.  These campaigns could be interpreted as outliers due to extenuating circumstances, and further investigation into those successful campaigns might be appropriate.
-4. Of the 17 total projects with goals of $45,000 and higher, only 2 were successful.
+##### By creating a table and a CountIf function to sum the results of each campaign in the "play" subcategory according to the set goal ranges we can quickly visualize the results.
 
 ![Outcomes_vs_Goals.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-##### One challenge that appeared within this analysis was the discovery of a hole in the data due to the requested fundraising goal ranges.  In the prompt for Deliverable 2 (Item 3), campaigns with goals of exactly $50,000 aren't represented by the table.  Because of this, if a formula is created according to that request, it is exclusive of that $50,000 value resulting in the omission of data for 4 plays.  Although this doesn't have a major impact on the overall results of the analysis due to the limited number of excluded campaigns, it should be noted that all values within the range being analyzed should be included for accurate reporting.
+##### One challenge that was encountered during this analysis was the discovery of a hole in the data due to the requested fundraising goal ranges.  In the prompt for Deliverable 2 (Item 3), campaigns with goals of exactly $50,000 aren't represented by the table.  Because of this, if a formula is created according to that request, it is exclusive of that $50,000 value resulting in the omission of data for 4 plays.  Although this doesn't have a major impact on the overall results of the analysis due to the limited number of excluded campaigns, it should be noted that all values within the range being analyzed should be included for accurate reporting.
 
 ![Goal_ranges_original_table.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Goal_ranges_original_table.png)
 ![Goal_ranges_modified_table.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Goal_ranges_modified_table.png)
@@ -41,6 +37,11 @@ Two conclusions drawn by comparing fundraising campaign outcomes with the date t
 
 
 - What can you conclude about the Outcomes based on Goals?
+1. The percentage of successful campaigns steadily decreases from 76% for campaigns with goals less than $1,000, to 20% for campaigns with goals in the $25,000 to $29,999 range.  The total number of campaigns represented in this overall goal range (less than $1,000 to $29,999) is 1010.
+2. Campaigns achieved the highest overall success rate with goals of $1,000 to $4,999.  Of 534 campaigns in this group, 388 met their fundraising goal.  This appears to be the ideal goal range of a successful kickstarter campaign for the subcategory of "play".
+3. The percentage of successful campaigns with goals of between $30,000 and $44,999 increases for just 20 campaigns.  These campaigns could be interpreted as outliers due to extenuating circumstances, and further investigation into those successful campaigns might be appropriate.
+4. Of the 17 total projects with goals of $45,000 and higher, only 2 were successful.
+
 
 - What are some limitations of this dataset?
 
