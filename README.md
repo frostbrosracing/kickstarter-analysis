@@ -3,7 +3,7 @@
 ## Overview of Project
 #### By studying a large amount of compiled data, we've been able to analyze trends and compare the outcomes of many Kickstarter fundraising campaigns.  The focus of this analysis is on the subcategory of "plays", and the gathered data has been filtered to provide insights according to both *campaign launch date* and *fundraising goals*. 
 
-#### This valuable information helps organizers understand how they might better position their fundraising campaign's success.
+#### This valuable information helps organizers understand how they might better organize their fundraising campaign.
 
 
 ## Analysis and Challenges
@@ -14,7 +14,7 @@ By analyzing outcomes of campaigns based on their launch date we can begin to ta
 ![Theater_Outcomes_vs_Launch.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-By analyzing outcomes of campaigns based on their fundraising goal we can further leverage the data toward a successful effort.  This was achieved by creating a table and using a ***CountIf*** function to sum the results of each campaign in the "play" subcategory according to the established **goal ranges** and **various outcomes** *(successful, failed, or canceled)*.  By doing so, we can quickly visualize the result to provide further recommendation to Louise.  Below is a chart showing the percentage, by campaign outcome, of the total number of campaigns within each defined goal range.
+By analyzing outcomes of campaigns based on their fundraising goal we can further leverage the data toward a successful effort.  This was achieved by creating a table and using a ***CountIf*** function to sum the results of each campaign in the "play" subcategory according to the established **goal ranges** *(shown below on the "x" axis)* and various **outcomes** *(successful, failed, or canceled)*.  By doing so, we can quickly visualize the result to provide further recommendation to Louise.  Below is a chart showing the percentage, by campaign outcome, of the total number of campaigns within each defined goal range.
 
 ![Outcomes_vs_Goals.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
