@@ -14,7 +14,7 @@ By analyzing outcomes of campaigns based on their launch date we can begin to ta
 ![Theater_Outcomes_vs_Launch.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-By analyzing outcomes of campaigns based on their fundraising goal we can further leverage the data toward a successful effort.  This was achieved by creating a table and using a ***CountIf*** function to sum the results of each campaign in the "play" subcategory according to the established **goal ranges** *(shown below on the "x" axis)* and various **outcomes** *(successful, failed, or canceled)*.  By doing so, we can quickly visualize the result.  Below is a chart showing the percentage, by campaign **outcome**, of the total number of campaigns within each defined **goal range**.
+By analyzing outcomes of campaigns based on their fundraising goal we can further leverage the data toward a successful effort.  This was achieved by creating a table and using a ***CountIf*** function to sum the results of each campaign in the "play" subcategory according to the established **goal ranges** *(shown below on the "x" axis and represented by dollar amounts)* and various **outcomes** *(successful, failed, or canceled)*.  By doing so, we can quickly visualize the result.  Below is a chart showing the percentage, by campaign **outcome**, of the total number of campaigns within each defined **goal range**.
 
 ![Outcomes_vs_Goals.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
