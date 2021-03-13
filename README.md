@@ -1,9 +1,9 @@
 # An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
-#### By studying a wide range of Kickstarter campaigns, we've been able to analyze trends and compare the outcomes of many Kickstarter campaigns.  Specific to the interests of this analysis, we can filter the compiled data to provide recommendations within the subcategory of "plays".  The analysis of starting dates and fundraising goals within this Kickstarter campaign subcategory gives us valuable information. 
+#### By studying a large amount of compiled data, we've been able to analyze trends and compare the outcomes of many Kickstarter fundraising campaigns.  The focus of this analysis is on the subcategory of "plays", and the gathered data has been filtered to provide insights according to both *campaign starting date* and *fundraising goals*. 
 
-#### The purpose of this is to understand how organizers might position their fundraising campaigns for greater levels of success.
+#### This valuable information helps organizers understand how they might better position their fundraising campaigns success.
 
 
 ## Analysis and Challenges
