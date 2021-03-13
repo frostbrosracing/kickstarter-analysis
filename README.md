@@ -1,4 +1,4 @@
-# An Analysis of Kickstarter &trade Campaigns
+# An Analysis of Kickstarter <sup>TM</sup> Campaigns
 
 ## Overview of Project
 #### By studying a large amount of compiled data, we've been able to analyze trends and compare the outcomes of many Kickstarter fundraising campaigns.  The focus of this analysis is on the subcategory of "plays", and the gathered data has been filtered to provide insights according to both *campaign launch date* and *fundraising goals*. 
