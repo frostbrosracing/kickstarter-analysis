@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
-#### By studying a large amount of compiled data, we've been able to analyze trends and compare the outcomes of many Kickstarter fundraising campaigns.  The focus of this analysis is on the subcategory of "plays", and the gathered data has been filtered to provide insights according to both *campaign launch date* and *fundraising goals*. 
+#### By studying a large amount of compiled data, we've been able to analyze trends and compare the outcomes of many Kickstarter fundraising campaigns.  The focus of this analysis is on the subcategory of ***Plays***, and the gathered data has been filtered to provide insights according to both *campaign launch date* and *fundraising goals*. 
 
 #### This valuable information helps organizers understand how they might better organize their fundraising campaign.
 
@@ -36,7 +36,7 @@ This was overcome by simply modifying the ***CountIfs*** function to include tho
 
 #### According to the data gathered by comparing fundraising ***outcomes based on their goals*** we can also determine the following:
 - The percentage of successful campaigns steadily decreases from 76% for campaigns with goals less than $1,000, to 20% for campaigns with goals in the $25,000 to $29,999 range.  The total number of campaigns represented in this overall goal range (less than $1,000 to $29,999) is 1010.
-- Campaigns achieved the highest overall success rate with goals of $1,000 to $4,999.  Of 534 campaigns in this group, 388 met their fundraising goal.  This appears to be the ideal goal range of a successful kickstarter campaign for the subcategory of "play".
+- Campaigns achieved the highest overall success rate with goals of $1,000 to $4,999.  Of 534 campaigns in this group, 388 met their fundraising goal.  This appears to be the ideal goal range of a successful kickstarter campaign for the subcategory of ***play***.
 - The percentage of successful campaigns with goals of between $30,000 and $44,999 increases for just 20 campaigns.  These campaigns could be interpreted as outliers due to extenuating circumstances, and further investigation into those successful campaigns might be appropriate.
 - Of the 17 total projects with goals of $45,000 and higher, only 2 were successful.
 
