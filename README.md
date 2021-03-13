@@ -9,9 +9,9 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-#### By analyzing outcomes of campaigns based on their launch date we can begin to target success.  Below is an analysis of fundraising campaign outcomes within the "Theater" category based on the campaign launch date.
+#### By analyzing outcomes of campaigns based on their launch date we can begin to target that greater level of success.  Below is an chart showing the number of fundraising campaign outcomes within the "Theater" category based on the campaign launch date.
 
-##### For the purpose of this analysis, a pivot table was created in which all Kickstarter campaigns were filtered by the category of "Theater", and for all years being studied.  The total number of campaigns was charted according to the outcomes of "successful", "failed", and "cancelled" based on the date the campaign began.
+##### In order to generate this chart, a pivot table was created in which all Kickstarter campaigns were filtered by the category of "Theater", and for all years being studied.  A chart of the total number of campaigns was then created according to the outcomes of "successful", "failed", and "canceled".
 
 ![Theater_Outcomes_vs_Launch.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
