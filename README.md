@@ -9,17 +9,17 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-#### By analyzing outcomes of campaigns based on their launch date we can begin to target that greater level of success.  In order to do this, a pivot table was created in which all Kickstarter campaigns were filtered by the category of "Theater", and for all years being studied.  Shown below is a chart showing the outcome of that pivot table.
+By analyzing outcomes of campaigns based on their launch date we can begin to target that greater level of success.  In order to do this, a pivot table was created in which all Kickstarter campaigns were filtered by the category of "Theater", and for all years being studied.  Shown below is a chart detailing the outcome of that pivot table.
 
 ![Theater_Outcomes_vs_Launch.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-#### By analyzing outcomes of campaigns based on their fundraising goal we can further leverage the data toward a successful effort.  This was achieved by creating a table and using a CountIf function to sum the results of each campaign in the "play" subcategory according to the set goal ranges.  By doing so, we can quickly visualize the result to provide further recommendation to Louise.  Below is a chart showing the percentage, by campaign outcome, of the total number of campaigns within each defined goal range.
+By analyzing outcomes of campaigns based on their fundraising goal we can further leverage the data toward a successful effort.  This was achieved by creating a table and using a "CountIf" function to sum the results of each campaign in the "play" subcategory according to the set goal ranges and outcomes.  By doing so, we can quickly visualize the result to provide further recommendation to Louise.  Below is a chart showing the percentage, by campaign outcome, of the total number of campaigns within each defined goal range.
 
 ![Outcomes_vs_Goals.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
-##### One challenge that was encountered during this analysis was the discovery of a potential hole in the reported results due to the requested data.  In the prompt for Deliverable 2 (Item 3), campaigns with goals of exactly $50,000 aren't represented by the table.  Because of this, if a formula is created according to that request, it excludes results for campaigns of goals with exactly $50,000.  This results in the omission of data for 4 plays.  Although this doesn't have a major impact on the overall results of the analysis due to the limited number of excluded campaigns, it should be noted that all values within the range being analyzed should be included for accurate reporting.
+One challenge that was encountered during this analysis was the discovery of a potential hole in the reported results due to the requested data.  In the prompt for Deliverable 2 (Item 3), campaigns with goals of exactly $50,000 aren't represented by the table.  Because of this, if a formula is created according to that request, it excludes results for campaigns of goals with exactly $50,000.  This results in the omission of data for 4 plays.  Although this doesn't have a major impact on the overall results of the analysis due to the limited number of excluded campaigns, it should be noted that all values within the range being analyzed should be included for accurate reporting.
 
 ![Goal_ranges_original_table.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Goal_ranges_original_table.png)
 ![Goal_ranges_modified_table.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Goal_ranges_modified_table.png)
@@ -27,15 +27,15 @@
 
 ## Results
 
-### Two conclusions drawn by comparing fundraising campaign outcomes with the date they were launched are listed below.
+Two conclusions drawn by comparing fundraising campaign outcomes with the date they were launched are listed below.
 1.  Theater campaigns initiated in the months of May and June were considerably more successful than those campaigns initiated in other months.
 2.  December campaigns resulted in the fewest successes.  Perhaps due to potential contributions being limited by holiday season spending, this month had the fewest successful campaigns of the years studied in the analysis.
 
-### According to the data gathered by comparing fundraising outcomes based on their goals we can also determine the following:
-1. The percentage of successful campaigns steadily decreases from 76% for campaigns with goals less than $1,000, to 20% for campaigns with goals in the $25,000 to $29,999 range.  The total number of campaigns represented in this overall goal range (less than $1,000 to $29,999) is 1010.
-2. Campaigns achieved the highest overall success rate with goals of $1,000 to $4,999.  Of 534 campaigns in this group, 388 met their fundraising goal.  This appears to be the ideal goal range of a successful kickstarter campaign for the subcategory of "play".
-3. The percentage of successful campaigns with goals of between $30,000 and $44,999 increases for just 20 campaigns.  These campaigns could be interpreted as outliers due to extenuating circumstances, and further investigation into those successful campaigns might be appropriate.
-4. Of the 17 total projects with goals of $45,000 and higher, only 2 were successful.
+According to the data gathered by comparing fundraising outcomes based on their goals we can also determine the following:
+- The percentage of successful campaigns steadily decreases from 76% for campaigns with goals less than $1,000, to 20% for campaigns with goals in the $25,000 to $29,999 range.  The total number of campaigns represented in this overall goal range (less than $1,000 to $29,999) is 1010.
+- Campaigns achieved the highest overall success rate with goals of $1,000 to $4,999.  Of 534 campaigns in this group, 388 met their fundraising goal.  This appears to be the ideal goal range of a successful kickstarter campaign for the subcategory of "play".
+- The percentage of successful campaigns with goals of between $30,000 and $44,999 increases for just 20 campaigns.  These campaigns could be interpreted as outliers due to extenuating circumstances, and further investigation into those successful campaigns might be appropriate.
+- Of the 17 total projects with goals of $45,000 and higher, only 2 were successful.
 
 
 - What are some limitations of this dataset?
