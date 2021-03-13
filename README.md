@@ -20,8 +20,8 @@
 ### Analysis of Outcomes Based on Goals
 #### Below you can see an analysis of fundraising campaign outcomes based on the fundraising goals that were set.
 #### By creating a table and a CountIf function to sum the results of each campaign in the "play" subcategory according to the set goal ranges we can see that:
-#### 1. The percentage of successful campaigns steadily decreases from 76% for campaigns with goals less than $1,000 to 20% for campaigns with goals in the $25,000 to$29,999 range.  This goal range represents a total of over 1000 campaigns.
-#### 2. The percentage of successful campaigns with goals of $30,000 and higher increases for a very few number of plays and then falls off significantly.  These might be seen as outliers due to extenuating circumstances and further investigation into those successful campaigns might be appropriate.
+1. The percentage of successful campaigns steadily decreases from 76% for campaigns with goals less than $1,000 to 20% for campaigns with goals in the $25,000 to$29,999 range.  This goal range represents a total of over 1000 campaigns.
+2. The percentage of successful campaigns with goals of $30,000 and higher increases for a very few number of plays and then falls off significantly.  These might be seen as outliers due to extenuating circumstances and further investigation into those successful campaigns might be appropriate.
 ![Outcomes_vs_Goals.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
