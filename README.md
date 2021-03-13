@@ -24,6 +24,7 @@ One challenge that was encountered during this analysis was the discovery of a p
 This was overcome by simply modifying the ***CountIfs*** function to include those potentially omitted results with a *"greater than or equal to"* formula instead of just a *"greater than"* formula.  By doing so we ensured that all data gathered in the study was included in the analysis.  Below are two images.  One is of the table that is exclusive of the $50,000 value, and one is of the table that is inclusive of the $50,000 value.  The inclusive table that which was used for this analysis.
 
 ![Goal_ranges_original_table.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Goal_ranges_original_table.png)
+
 ![Goal_ranges_modified_table.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Goal_ranges_modified_table.png)
 
 
