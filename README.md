@@ -1,7 +1,7 @@
 # An Analysis of Kickstarter Campaigns
 
 ## Overview of Project
-#### By studying a wide range of Kickstarter campaigns we've been able to analyze trends related to: campaign starting dates and duration; fundraising goals; and finally, the outcomes of campaigns similar to that of Louise's play, "Fever".  
+#### By studying a wide range of Kickstarter campaigns, we've been able to analyze trends and compare the outcomes of many Kickstarter campaigns.  Specifically, we can drill down and compare the outcomes of campaigns similar to that of Louise's play, "Fever".  The analysis of campaign starting dates and fundraising goals gives us valuable information. 
 
 #### The purpose of this is to understand how Louise might have better positioned her fundraising campaign for a greater level of success.
 
@@ -31,7 +31,7 @@
 1.  Theater campaigns initiated in the months of May and June were considerably more successful than those campaigns initiated in other months.
 2.  December campaigns resulted in the fewest successes.  Perhaps due to potential contributions being limited by holiday season spending, this month had the fewest successful campaigns of the years studied in the analysis.
 
-### According to the data gathered by comparing fundraising outcomes based on their goals we can also determine thefollowing:
+### According to the data gathered by comparing fundraising outcomes based on their goals we can also determine the following:
 1. The percentage of successful campaigns steadily decreases from 76% for campaigns with goals less than $1,000, to 20% for campaigns with goals in the $25,000 to $29,999 range.  The total number of campaigns represented in this overall goal range (less than $1,000 to $29,999) is 1010.
 2. Campaigns achieved the highest overall success rate with goals of $1,000 to $4,999.  Of 534 campaigns in this group, 388 met their fundraising goal.  This appears to be the ideal goal range of a successful kickstarter campaign for the subcategory of "play".
 3. The percentage of successful campaigns with goals of between $30,000 and $44,999 increases for just 20 campaigns.  These campaigns could be interpreted as outliers due to extenuating circumstances, and further investigation into those successful campaigns might be appropriate.
