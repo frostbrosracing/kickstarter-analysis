@@ -9,7 +9,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-By analyzing outcomes of campaigns based on their launch date we can begin to target success.  In order to do this, a pivot table was created in which all Kickstarter campaigns were filtered to the category of "Theater", and for all years within the overall data set.  Shown below is a chart detailing the outcome of that table.
+By analyzing outcomes of campaigns based on their launch date we can begin to target success.  In order to do this, a pivot table was created in which all Kickstarter campaigns were filtered to the category of **Theater**, and for **all years** within the overall data set.  Shown below is a chart detailing the outcome of that table.
 
 ![Theater_Outcomes_vs_Launch.png](https://github.com/frostbrosracing/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
